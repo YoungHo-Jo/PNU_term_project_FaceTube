@@ -32,7 +32,8 @@ nodemon app.js
 
 ## Process
 
-Camera Data to Ubuntu face classification server on Socket
+First, Camera Server sends data to Ubuntu face classification server on Socket, which runs on ACHRO board.
+
 
 The server sends back classified face expression information to Camera client 
 
