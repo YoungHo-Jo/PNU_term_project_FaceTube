@@ -30,5 +30,23 @@ or
 nodemon app.js
 
 
+## Process
+
+Camera Data to Ubuntu face classification server on Socket
+
+The server sends back classified face expression information to Camera client 
+
+
+Also the server sends information to MySQL Server
+
+
+NodeJs Server processes it.
+
+
+React shows processed information from NodeJS Server.
+
+And with a touch screen built on ACHRO board, it can change
+youtube url playing on brower made by React.
+
 
 
